@@ -1,2 +1,2 @@
-# float
+# intensify
 Float projects
